@@ -1,0 +1,16 @@
+h2.intro{
+  font-family: fantasy;
+  color: purple;
+  font-style: italic;
+  text-align: center;
+}
+p.intro{
+  font-size: 25px;
+  color: lightblue;
+}
+img.intro{
+display: block;
+margin: auto;
+ height: 400px;
+ width: auto;
+}
