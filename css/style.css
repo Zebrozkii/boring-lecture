@@ -14,3 +14,11 @@ margin: auto;
  height: 400px;
  width: auto;
 }
+div.fancy {
+  font-family: 'Charm', cursive;
+  color: red;
+}
+span.boring {
+  font-family: 'Inconsolata', monospace;
+  color: grey;
+}
