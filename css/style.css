@@ -22,3 +22,25 @@ span.boring {
   font-family: 'Inconsolata', monospace;
   color: grey;
 }
+.light-background{
+  background-color: lightblue;
+  color: black;
+}
+.dark-background{
+  background: darkred;
+}
+.middle-background{
+  background-color: green;
+}
+.btn-light{
+  background-color: purple;
+  color: white;
+}
+.btn-dark{
+  background-color: orange;
+  color: black;
+}
+.btn-middle{
+  background-color: blue;
+  color: white;
+}
